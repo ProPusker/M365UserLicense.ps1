@@ -1,8 +1,7 @@
 ```markdown
 # Microsoft 365 License Export Tool
 
-![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue.svg)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-API-0078D4.svg)
+
 
 A modern PowerShell script to export Microsoft 365 user license assignments using Microsoft Graph API with enhanced security and enterprise-grade features.
 
@@ -27,7 +26,7 @@ A modern PowerShell script to export Microsoft 365 user license assignments usin
 - [FAQ](#faq)
 - [License](#license)
 
----
+
 
 ## Prerequisites
 
